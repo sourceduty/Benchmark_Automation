@@ -14,6 +14,10 @@ Overall, this custom GPT acts as a reliable assistant for performance testing an
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Intelligence Benchmark](https://github.com/sourceduty/Intelligence_Benchmark)
+<br>
+[Product Benchmark](https://github.com/sourceduty/Product_Benchmark)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
