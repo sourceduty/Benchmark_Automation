@@ -1,4 +1,4 @@
-![Benchmark Automation](https://github.com/user-attachments/assets/6358ab1f-e278-4757-8d16-244d71cc8559)
+![Benchmark Automation](https://github.com/user-attachments/assets/6cdec192-b4e0-4b6a-901e-c92d2ee35887)
 
 > Automate benchmarks for performance testing.
 
